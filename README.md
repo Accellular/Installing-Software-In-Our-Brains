@@ -18,9 +18,9 @@ So we need a "software" in our brain to interpret this knowledge and skills code
 ## How do we "install" the software in our brain?
 First of all, it must be emphasized that simply memorizing the contents of these recorded knowledge and skills is just copying them into the brain, not installing an executable software.
 
-What people without programming experience may not know is that there is no essential difference in the storage method and format between so-called executable files, such as python.exe, and so-called text files, such as my_secret.txt. 
+What people without programming experience may not know is that there is no essential difference in the storage method and format between so-called executable files, such as python.exe, and so-called text files, such as my_secret.txt (Same goes for scripts). 
 
-They are all sequences of a certain length of binary digits (1s and 0s) in a specific order. The main difference is how the hardware and operating system or other softwares treat their structure and content. If the structure and content of a sequence conform to the specific requirements of a particular hardware or software, it may be considered executable. Even scripts themselves can be "executable" as long as they meet the requirements of the interpreter. Similarly, if we want to install a software that can execute knowledge or skills in our brain, simply memorizing the knowledge and skills is not enough, as this may not meet the brain's requirement for "executability".
+They are all sequences of a certain length of binary digits (1s and 0s) in a specific order. The main difference is how the hardware and operating system or other softwares treat their structure and content. If the structure and content of a sequence conform to the specific requirements of a particular hardware or software, it may be considered "executable". Even scripts themselves can be "executable" as long as they meet the requirements of the interpreter. Similarly, if we want to install a software that can execute knowledge or skills in our brain, simply memorizing the knowledge and skills is not enough, as this may not meet the brain's requirement for "executability".
 
 Here comes the point, but since this is a tutorial for everyone, I will not explain the principles in detail here to avoid information overload or deviating from the goal. 
 
